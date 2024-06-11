@@ -2,6 +2,8 @@
   <img src="docs/res/github-graph.png">
 </p>
 
+[![Code Scanning - Action](https://github.com/devicemanager/runner/actions/workflows/codeql.yml/badge.svg)](https://github.com/devicemanager/runner/actions/workflows/codeql.yml)
+
 # GitHub Actions Runner
 
 [![Actions Status](https://github.com/actions/runner/workflows/Runner%20CI/badge.svg)](https://github.com/actions/runner/actions)
